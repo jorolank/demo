@@ -1,19 +1,19 @@
 {
   "user": [
-  {
-  "id": 1,
-  "firstname": "John",
-  "lastname": "Doe"
-  },
     {
-        "id": 2,
-  "firstname": "Kim",
-  "lastname": "Jorolan"
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe"
     },
-       {
-        "id": 3,
-  "firstname": "Wiki",
-  "lastname": "Pedia"
+    {
+      "id": 2,
+      "firstname": "Kim",
+      "lastname": "Jorolan"
+    },
+    {
+      "id": 3,
+      "firstname": "Wiki",
+      "lastname": "Pedia"
     }
-  ] 
+  ]
 }
